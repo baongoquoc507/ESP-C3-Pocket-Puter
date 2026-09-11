@@ -1,4 +1,4 @@
-# ESP Pocket Puter
+# ESP C3 Pocket Puter
 
 A compact **ESP32-based Flipper Zero alternative** with a display, buttons, buzzer, infrared transmitter, and CC1101 RF support.
 
@@ -75,6 +75,7 @@ A compact **ESP32-based Flipper Zero alternative** with a display, buttons, buzz
 
 · DevEclipse1 — Original creator and maintainer
     GitHub: https://github.com/DevEclipse1
+    The project was only edited by github: https://github.com/baongoquoc507
 
 ## 🎗️ Contributing
 
